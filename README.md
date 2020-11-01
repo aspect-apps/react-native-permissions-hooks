@@ -1,5 +1,5 @@
 
-# react-native-permission-hooks
+# react-native-permission-hooks 🎣
 
 ## Getting started
 
